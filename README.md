@@ -1,2 +1,2 @@
-# tetris
+# Tetris
 Good ol' fashioned Tetris!
